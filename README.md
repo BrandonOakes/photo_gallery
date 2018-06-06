@@ -2,10 +2,10 @@
 
 ## Web Development Boot camp- Colt Steele
 
-#### CSS styling
+#### Make a photo blog
 
 
-Shows example of photo gallery blog
+Shows example of photo gallery made from HTML and CSS
 
 ##### Steps:
   1. Clone to repo to get code
